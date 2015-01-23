@@ -308,7 +308,7 @@ Full-Width Styles
   font-weight: 400;
   font-size: 42px;
   letter-spacing: 1.5px;
-  text-shadow: #212121 2px 2px 4px;
+  text-shadow: #212121 1px 1px 2px;
 }
 
 #project_tagline {
@@ -319,7 +319,7 @@ Full-Width Styles
   font-size: 24px;
   letter-spacing: 1.5px;
   background: none;
-  text-shadow: #212121 2px 2px 4px;
+  text-shadow: #212121 1px 1px 2px;
 }
 
 #downloads {
