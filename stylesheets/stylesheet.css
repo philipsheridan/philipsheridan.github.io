@@ -272,7 +272,7 @@ Full-Width Styles
   margin: 0 auto;
 }
 
-#forkme_banner {
+/*#forkme_banner {
   display: block;
   position: absolute;
   top:0;
@@ -285,7 +285,7 @@ Full-Width Styles
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
-}
+}*/
 
 #header_wrap {
   background: #369;
@@ -298,6 +298,17 @@ Full-Width Styles
 
 #header_wrap .inner {
   padding: 50px 10px 30px 10px;
+}
+
+#header_wrap img {
+float: right;
+width: 175px;
+border: none;
+padding: 0;
+
+-webkit-box-shadow: 0 0 10px rgba(0,0,0,.8);
+box-shadow: 0 0 10px rgba(0,0,0,.8);
+
 }
 
 #project_title {
