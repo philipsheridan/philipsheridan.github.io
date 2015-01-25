@@ -52,7 +52,7 @@ body {
   box-sizing: border-box;
   color:#333333;
   background: #212121;
-  font-size: 20px;
+  font-size: 22px;
   font-family: "adobe-garamond-pro",sans-serif;
   line-height: 1.5;
   letter-spacing: 0.5px;
@@ -306,9 +306,9 @@ Full-Width Styles
   font-family: "acta-display",sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 42px;
+  font-size: 45px;
   letter-spacing: 1.5px;
-  text-shadow: #212121 1px 1px 2px;
+  text-shadow: #212121 0px 0px 0px;
 }
 
 #project_tagline {
@@ -316,10 +316,10 @@ Full-Width Styles
   font-family: "acta-display",sans-serif;
   font-style: normal;
   font-weight: 300;
-  font-size: 24px;
+  font-size: 28px;
   letter-spacing: 1.5px;
   background: none;
-  text-shadow: #212121 1px 1px 2px;
+  text-shadow: #212121 0px 0px 0px;
 }
 
 #downloads {
