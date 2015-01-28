@@ -100,6 +100,8 @@ p {
 
 footer p {
   color: #f2f2f2;
+  font-family: "museo-sans", Helvetica, sans-serif;
+  font-weight: 300;
 }
 
 a {
