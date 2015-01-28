@@ -52,10 +52,10 @@ body {
   box-sizing: border-box;
   color:#333333;
   background: #212121;
-  font-size: 18px;
-  font-family: "museo-sans", Helvetica, sans-serif;
+  font-size: 20px;
+  font-family: "adobe-garamond-pro", serif;
   line-height: 1.5;
-  letter-spacing: 0px;
+  letter-spacing: 0.5px;
   -webkit-font-smoothing: antialiased;
 }
 
